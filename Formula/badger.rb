@@ -1,8 +1,8 @@
 class Badger < Formula
   desc "A lightweight quality gate for Claude Code sessions"
   homepage "https://github.com/garyjohnson/badger"
-  url "https://github.com/garyjohnson/badger/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "517a2748af52e963d2f37e461d37fb4dcd26b7c3de631fd9ad33b51080362cc8"
+  url "https://github.com/garyjohnson/badger/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "3f9b510920138974ff5fa567ff600ffec55cdd0c5e009f50fe8fbf9e3a0436bc"
   license "MIT"
 
   depends_on "node"
